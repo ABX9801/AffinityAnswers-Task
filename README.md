@@ -3,8 +3,11 @@
 ### assumptions
 - assuming that our twitter sraped data is as follows
 <img src="tweets.JPG">
+
 - assuming that the racist words are in a text file as follows.
 <img src="racistwords.JPG">
+
+
 ### How to run the Code
 
 - Download the required libraries 
