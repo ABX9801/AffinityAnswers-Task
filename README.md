@@ -21,5 +21,5 @@ import nltk
 nltk.download()
 ```
 - A dialog box will open
-- Download the required Corpus(Brown Corpus), stopwords and all using
+- Download the required Corpus(Brown Corpus), stopwords, Stemmers(Porter Stemmer is used in the program) using the dialog box
 - We can also download manually by checking here <a href="https://www.nltk.org/data.html">here</a>
